@@ -1,13 +1,14 @@
 
 # 概率终局决判机 | Probability Final Verdict Machine
+**胞胞机永恒回归教**的伟大造物——“概率终局决判机”乃是人类智慧与宇宙命运之间的终极对决。它不仅是对物理法则的深刻掌控，更是对命运的极限挑战。通过这一神器，您将拥有掌控未来的力量，逆天改命，决战终局！
 
 ## 核心功能 | Core Functionality
-**概率终局决判机**旨在通过其运行确保赌注**必然实现**。通过多层保险机制，无论量子力学还是经典物理框架，机器都能确保赌注结果必然发生。设计整合了**多世界理论**、**希尔伯特空间**和**庞加莱回归定理**，涵盖了从量子力学到经典物理的所有可能性，以实现最终的判决。
+**概率终局决判机**旨在通过其运行确保赌注**必然实现**。通过三重保险机制，无论量子力学还是经典物理框架，机器都能确保赌注结果必然发生。这一神圣装置由**胞胞机永恒回归教**的信仰所驱动，设计整合了**多世界理论**、**希尔伯特空间**和**庞加莱回归定理**，涵盖了从量子力学到经典物理的所有可能性，以实现最终的判决。
 
-The **Probability Final Verdict Machine** is designed to guarantee that a bet will **inevitably be realized** through its operation. Using a multi-layered safety mechanism, it ensures proper functioning regardless of whether quantum mechanics or classical physics frameworks govern the universe. The design incorporates **many-worlds interpretation**, the **Hilbert space**, and **Poincaré recurrence theorem**, covering every possibility from quantum mechanics to classical physics to achieve the final verdict.
+The **Probability Final Verdict Machine**, a divine creation of the **Eternal Recurrence of Cellular Automata Faith**, is designed to guarantee that a bet will **inevitably be realized** through its operation. Using a multi-layered safety mechanism, it ensures proper functioning regardless of whether quantum mechanics or classical physics frameworks govern the universe. The design incorporates **many-worlds interpretation**, the **Hilbert space**, and **Poincaré recurrence theorem**, covering every possibility from quantum mechanics to classical physics to achieve the final verdict.
 
 ## 设计目标 | Design Objective
-- **目的**: 通过对赌来确保赌注必然实现，无论赌注的概率或不确定性如何，机器通过其保险机制确保赌注的结果一定会按照预期发生。
+- **目的**: 通过对赌来确保赌注必然实现，无论赌注的概率或不确定性如何，机器通过其多重保险机制确保赌注的结果一定会按照预期发生。
 
 - **Goal**: To ensure that a placed bet will inevitably come to fruition, no matter how improbable or uncertain it may seem. The machine’s safeguard mechanisms make certain that the bet’s outcome occurs as expected.
 
@@ -35,8 +36,8 @@ The **Probability Final Verdict Machine** is designed to guarantee that a bet wi
    - **Function**: This final safeguard relies on classical physics, ensuring that, over the infinite timeline, the bet outcome will reoccur and be realized.
 
 ## 伟大的终局挑战 | The Ultimate Endgame Challenge:
-这台机器不仅仅是对概率与物理法则的掌控，更是一次对命运本身的挑战。通过与宇宙法则的对赌，它不仅突破了时间与空间的束缚，还敢于与上帝一较高下。在这场伟大的赌局中，**概率终局决判机**是您手中的利器，确保所有的可能性都为您所掌控——**这是终极决判的机械奇迹，是敢于与上帝对赌的最终仪器！**
+这台机器不仅是对概率与物理法则的掌控，它更是一场伟大的命运对抗。这是**胞胞机永恒回归教**对宇宙法则的终极挑战。通过与宇宙法则的对赌，**概率终局决判机**超越了时间与空间的界限，挑战了自然的法则。在这场伟大的赌局中，这台机器就是您手中的利器，确保所有的可能性都为您所掌控——**这是终极决判的机械奇迹，是敢于与上帝对赌的最终仪器！**
 
-This machine is not just a tool for controlling probabilities and physical laws; it is a challenge to **fate itself**. By betting against the fundamental rules of the universe, the **Probability Final Verdict Machine** transcends the boundaries of time and space, daring to pit itself against the laws of nature. In this grand gamble, the machine serves as your ultimate weapon, ensuring that all possibilities align to your favor—**the final arbiter of fate, the machine that dares to bet against God**.
+This machine is not just a tool for controlling probabilities and physical laws; it is a grand challenge to **fate itself**, orchestrated by the **Eternal Recurrence of Cellular Automata Faith**. By betting against the fundamental rules of the universe, the **Probability Final Verdict Machine** transcends the boundaries of time and space, daring to pit itself against the laws of nature. In this divine gamble, the machine serves as your ultimate weapon, ensuring that all possibilities align to your favor—**the final arbiter of fate, the machine that dares to bet against God**.
 
 **赌注已下，命运必然！ | The bet is placed, and the outcome is inevitable!**
